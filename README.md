@@ -27,4 +27,4 @@ When your new project is ready for deployment, add a new Heroku application with
 # express-boilerplate
 
 # This should report that it's inserted 10 rows which you can see in DBeaver by refreshing the table and looking at the data.
--U dunder_mifflin -d blogful -f ./seeds/seed.blogful_articles.sql
+-U dunder_mifflin -d blogful -f ./seeds/seed.blogful_articles.sql# blogful-api
